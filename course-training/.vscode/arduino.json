@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrispmkii",
+    "port": "/dev/cu.usbmodem1401",
+    "sketch": "sensor-read/sensor-read.ino"
+}
