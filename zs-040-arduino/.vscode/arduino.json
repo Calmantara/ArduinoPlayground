@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/cu.usbmodem1301",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "transceiver-demo/transceiver-demo.ino"
+}
